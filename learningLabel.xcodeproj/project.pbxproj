@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		25678CB027A6A43800CAB6DA /* ProgressViewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25678CAF27A6A43800CAB6DA /* ProgressViewViewController.swift */; };
+		25678CB227A7C2EC00CAB6DA /* NewDatePickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25678CB127A7C2EC00CAB6DA /* NewDatePickerViewController.swift */; };
 		25D2982C279E8396008A7B8C /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D2982B279E8396008A7B8C /* AppDelegate.swift */; };
 		25D2982E279E8396008A7B8C /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D2982D279E8396008A7B8C /* SceneDelegate.swift */; };
 		25D29830279E8396008A7B8C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D2982F279E8396008A7B8C /* ViewController.swift */; };
@@ -16,6 +18,14 @@
 		25D29843279E8397008A7B8C /* learningLabelTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D29842279E8397008A7B8C /* learningLabelTests.swift */; };
 		25D2984D279E8397008A7B8C /* learningLabelUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D2984C279E8397008A7B8C /* learningLabelUITests.swift */; };
 		25D2984F279E8397008A7B8C /* learningLabelUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D2984E279E8397008A7B8C /* learningLabelUITestsLaunchTests.swift */; };
+		25D2985C279EA3E2008A7B8C /* LearningUITableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D2985B279EA3E2008A7B8C /* LearningUITableViewController.swift */; };
+		25D2985E279EB361008A7B8C /* TextFieldViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D2985D279EB361008A7B8C /* TextFieldViewController.swift */; };
+		25D29860279FEA53008A7B8C /* TextViewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D2985F279FEA53008A7B8C /* TextViewViewController.swift */; };
+		25D29862279FFB95008A7B8C /* ImageViewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D29861279FFB95008A7B8C /* ImageViewViewController.swift */; };
+		25D2986427A0F04C008A7B8C /* SegmentedControlViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D2986327A0F04C008A7B8C /* SegmentedControlViewController.swift */; };
+		25D2986627A0F382008A7B8C /* ActivityIndicatorViewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D2986527A0F382008A7B8C /* ActivityIndicatorViewViewController.swift */; };
+		25D2986827A0F7CC008A7B8C /* VisualEffectViewwithBlurViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D2986727A0F7CC008A7B8C /* VisualEffectViewwithBlurViewController.swift */; };
+		25D2986A27A11044008A7B8C /* DatePickerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 25D2986927A11044008A7B8C /* DatePickerViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +46,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		25678CAF27A6A43800CAB6DA /* ProgressViewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProgressViewViewController.swift; sourceTree = "<group>"; };
+		25678CB127A7C2EC00CAB6DA /* NewDatePickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewDatePickerViewController.swift; sourceTree = "<group>"; };
 		25D29828279E8396008A7B8C /* learningLabel.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = learningLabel.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		25D2982B279E8396008A7B8C /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		25D2982D279E8396008A7B8C /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -49,6 +61,14 @@
 		25D29848279E8397008A7B8C /* learningLabelUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = learningLabelUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		25D2984C279E8397008A7B8C /* learningLabelUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = learningLabelUITests.swift; sourceTree = "<group>"; };
 		25D2984E279E8397008A7B8C /* learningLabelUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = learningLabelUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		25D2985B279EA3E2008A7B8C /* LearningUITableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LearningUITableViewController.swift; sourceTree = "<group>"; };
+		25D2985D279EB361008A7B8C /* TextFieldViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldViewController.swift; sourceTree = "<group>"; };
+		25D2985F279FEA53008A7B8C /* TextViewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextViewViewController.swift; sourceTree = "<group>"; };
+		25D29861279FFB95008A7B8C /* ImageViewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageViewViewController.swift; sourceTree = "<group>"; };
+		25D2986327A0F04C008A7B8C /* SegmentedControlViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegmentedControlViewController.swift; sourceTree = "<group>"; };
+		25D2986527A0F382008A7B8C /* ActivityIndicatorViewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActivityIndicatorViewViewController.swift; sourceTree = "<group>"; };
+		25D2986727A0F7CC008A7B8C /* VisualEffectViewwithBlurViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisualEffectViewwithBlurViewController.swift; sourceTree = "<group>"; };
+		25D2986927A11044008A7B8C /* DatePickerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DatePickerViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +99,13 @@
 		25D2981F279E8396008A7B8C = {
 			isa = PBXGroup;
 			children = (
+				25678CB127A7C2EC00CAB6DA /* NewDatePickerViewController.swift */,
+				25678CAF27A6A43800CAB6DA /* ProgressViewViewController.swift */,
+				25D2986927A11044008A7B8C /* DatePickerViewController.swift */,
+				25D2986727A0F7CC008A7B8C /* VisualEffectViewwithBlurViewController.swift */,
+				25D2985F279FEA53008A7B8C /* TextViewViewController.swift */,
+				25D2985D279EB361008A7B8C /* TextFieldViewController.swift */,
+				25D2985B279EA3E2008A7B8C /* LearningUITableViewController.swift */,
 				25D2982A279E8396008A7B8C /* learningLabel */,
 				25D29841279E8397008A7B8C /* learningLabelTests */,
 				25D2984B279E8397008A7B8C /* learningLabelUITests */,
@@ -103,6 +130,9 @@
 				25D2982D279E8396008A7B8C /* SceneDelegate.swift */,
 				25D2982F279E8396008A7B8C /* ViewController.swift */,
 				25D29831279E8396008A7B8C /* Main.storyboard */,
+				25D2986527A0F382008A7B8C /* ActivityIndicatorViewViewController.swift */,
+				25D2986327A0F04C008A7B8C /* SegmentedControlViewController.swift */,
+				25D29861279FFB95008A7B8C /* ImageViewViewController.swift */,
 				25D29834279E8397008A7B8C /* Assets.xcassets */,
 				25D29836279E8397008A7B8C /* LaunchScreen.storyboard */,
 				25D29839279E8397008A7B8C /* Info.plist */,
@@ -258,9 +288,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				25678CB027A6A43800CAB6DA /* ProgressViewViewController.swift in Sources */,
+				25D2985E279EB361008A7B8C /* TextFieldViewController.swift in Sources */,
 				25D29830279E8396008A7B8C /* ViewController.swift in Sources */,
 				25D2982C279E8396008A7B8C /* AppDelegate.swift in Sources */,
+				25D2986827A0F7CC008A7B8C /* VisualEffectViewwithBlurViewController.swift in Sources */,
+				25D2986A27A11044008A7B8C /* DatePickerViewController.swift in Sources */,
+				25678CB227A7C2EC00CAB6DA /* NewDatePickerViewController.swift in Sources */,
+				25D2986427A0F04C008A7B8C /* SegmentedControlViewController.swift in Sources */,
 				25D2982E279E8396008A7B8C /* SceneDelegate.swift in Sources */,
+				25D2986627A0F382008A7B8C /* ActivityIndicatorViewViewController.swift in Sources */,
+				25D29860279FEA53008A7B8C /* TextViewViewController.swift in Sources */,
+				25D29862279FFB95008A7B8C /* ImageViewViewController.swift in Sources */,
+				25D2985C279EA3E2008A7B8C /* LearningUITableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -442,6 +482,7 @@
 				DEVELOPMENT_TEAM = FWYVY227K8;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = learningLabel/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = learningUI;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -470,6 +511,7 @@
 				DEVELOPMENT_TEAM = FWYVY227K8;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = learningLabel/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = learningUI;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
